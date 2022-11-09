@@ -24,7 +24,7 @@ pkg update && pkg upgrade
 pkg install git php
 
 # Download script
-git clone https://github.com/Varun114-Techno/jiotv-server
+git clone https://github.com/trickesterking/jiotv-server
 
 # Run the script
 php -S localhost:8585 -t "$HOME/jiotv-server"
