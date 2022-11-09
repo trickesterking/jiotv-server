@@ -116,35 +116,25 @@ width :100%;
         }
     }
 
-    .plyr__video-wrapper::before {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        z-index: 10;
-        content: '';
-        height: 35px;
-        width: 35px;
-        background: url('https://i.postimg.cc/dtjdrZk3/Picsart-22-06-18-13-18-02-871.png') no-repeat;
-        background-size: 35px auto, auto;
-    }
+
 
 </style>
 </head>
 <body>
 	<div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words" style="color:#d9230f;">V</span>
-    <span class="loading-text-words" style="color:#d9230f;">A</span>
-    <span class="loading-text-words" style="color:#d9230f;">R</span>
-    <span class="loading-text-words" style="color:#d9230f;">U</span>
-    <span class="loading-text-words" style="color:#d9230f;">N</span>
-    <span class="loading-text-words" style="color:#d9230f;">-</span>
-    <span class="loading-text-words" style="color:#d9230f;">T</span>
-    <span class="loading-text-words" style="color:#d9230f;">E</span>
-    <span class="loading-text-words" style="color:#d9230f;">C</span>
-    <span class="loading-text-words" style="color:#d9230f;">H</span>
-    <span class="loading-text-words" style="color:#d9230f;">N</span>
-    <span class="loading-text-words" style="color:#d9230f;">O</span>
+    <span class="loading-text-words" style="color:#d9230f;">L</span>
+    <span class="loading-text-words" style="color:#d9230f;">o</span>
+    <span class="loading-text-words" style="color:#d9230f;">a</span>
+    <span class="loading-text-words" style="color:#d9230f;">d</span>
+    <span class="loading-text-words" style="color:#d9230f;">i</span>
+    <span class="loading-text-words" style="color:#d9230f;">n</span>
+    <span class="loading-text-words" style="color:#d9230f;">g</span>
+    <span class="loading-text-words" style="color:#d9230f;">.</span>
+    <span class="loading-text-words" style="color:#d9230f;">.</span>
+    <span class="loading-text-words" style="color:#d9230f;">.</span>
+    <span class="loading-text-words" style="color:#d9230f;">.</span>
+    <span class="loading-text-words" style="color:#d9230f;">.</span>
 </div>
 </div>
 <div>
