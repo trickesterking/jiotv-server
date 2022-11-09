@@ -12,7 +12,7 @@ echo <<<'HEADER'
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>JIOTV-PLUS</title>
+<title>LIVE TV</title>
 <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
 <meta name="robots" content="noindex"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.min.css">
@@ -40,7 +40,7 @@ background-image: linear-gradient(315deg, #fff000 0%, #ed008c 74%);
 </style>
 <body>
 	<div id="jtvh1">
-<h1>VARUN114-LIVE <br>{JIOTV-PLUS}</h1> 
+<h1>LIVE - TV </h1> 
 </div>
 <div class="py-5">
 <div class="container">
